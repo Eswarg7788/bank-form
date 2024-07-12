@@ -1,0 +1,29 @@
+.form{
+    border: 1px soild rgb(185, 209, 213);
+    width: 650px;
+    height: 700px;
+    background-color: rgb(185, 209, 213);
+    margin-left: 400px;
+}
+.label{
+    border: 1px soid rgb(30, 129, 46);
+    background-color: rgb(30, 129, 46);
+    width: 650px;
+    height:75px;
+    position: relative;
+    top: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.fornt{
+    position: relative;
+    bottom: 5px;
+}
+input{
+    background-color: rgb(185, 209, 213);
+}
+table{
+    height: 600px;
+}
+
